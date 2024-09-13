@@ -85,7 +85,7 @@ I'm a frontend developer with a passion for creating dynamic and visually appeal
 
 ### Contact
 
-For more information you can contact me at: ilijapuric20@gmail.com
+For more information you can contact me at: ilija.puric.webdev@gmail.com
 
 See ya, im out 👋!
 

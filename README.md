@@ -52,26 +52,22 @@ I'm a frontend developer with a passion for creating dynamic and visually appeal
   alt="Node.js"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 />
-
 <img
   width="50px"
   style="padding-left:10px"
   alt="Express.js"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
-
 <img
   width="50px"
   style="padding-left:10px"
   alt="SQL Server"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
 />
-
 <img 
   width="50px"
   style="padding-left:10px"
   alt="Git"   
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
 <img
   width="50px"
   style="padding-left:10px"

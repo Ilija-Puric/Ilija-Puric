@@ -79,8 +79,6 @@ I'm a frontend developer with a passion for creating dynamic and visually appeal
 
 👩‍💻 I'm currently working on building an app to help songwriters and musicians with writing music and exporting it for personal use.
 
-🧠 I'm currently learning Astro and deepening my knowledge of the React ecosystem.
-
 🎵 I enjoy writting music, listening to music and playing instruments (mainly guitar and piano). So that creative side of me is something that i implement in my coding style.
 
 ### Contact
